@@ -11,6 +11,7 @@
         <div>
             <h1>Welcome to Test ASP.NET Page</h1>
             <asp:Label ID="Label1" runat="server" Text="Hello, ASP.NET!"></asp:Label>
+            <asp:TextBox ID="TextBox1" runat="server" Text="Enter text here..."></asp:TextBox>
         </div>
     </form>
 
